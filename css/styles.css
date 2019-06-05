@@ -1,0 +1,7 @@
+#successMessage {
+  display: none;
+}
+
+form#appointments {
+  display: block;
+}
